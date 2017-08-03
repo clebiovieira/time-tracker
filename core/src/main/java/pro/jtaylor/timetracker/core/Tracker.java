@@ -10,19 +10,28 @@ import java.util.List;
 public class Tracker {
     @Autowired
     private List<TimeEntry> entries;
-
+    
+    /**
+    teste
+    **/
     public void add(TimeEntry entry) {
         entries.add(entry);
     }
-
+    /**
+    teste
+    **/
     public void remove(TimeEntry entry) {
         entries.remove(entry);
     }
-
+    /**
+    teste
+    **/
     public int size() {
         return entries.size();
     }
-
+    /**
+    teste
+    **/
     public TimeEntry get(int index) {
         boolean valid = false;
         if(valid == true){
