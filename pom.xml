@@ -62,7 +62,7 @@
     <version>2.1</version>
     <configuration>
         <url>http://tomcat:8080/manager/text</url>
-        <path>teste</path>
+        <path>/teste</path>
         <username>jenkins</username>
         <password>jenkins</password>
     </configuration>
