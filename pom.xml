@@ -63,8 +63,8 @@
     <configuration>
         <url>http://tomcat:8080/manager/text</url>
         <path>teste</path>
-        <username>tomcat</username>
-        <password>tomcat</password>
+        <username>jenkins</username>
+        <password>jenkins</password>
     </configuration>
 </plugin>                     
             </plugins>
